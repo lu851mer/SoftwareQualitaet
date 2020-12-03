@@ -1,0 +1,46 @@
+/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT API'
+com.mycompany.app
+com.mycompany.app
+com.mycompany.app
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/src/main/java/.DS_Store = 1605783708853
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/src/main/java = 1605783708853
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/constant-values.html = 1606835267272
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/tag-search-index.js = 1606835267407
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/overview-tree.html = 1606835267319
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/module-search-index.js = 1606835267403
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/index.html = 1606835267445
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/package-search-index.js = 1606835267405
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/jquery-ui.overrides.css = 1606835267507
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/index-all.html = 1606835267416
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/allpackages-index.html = 1606835267440
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/deprecated-list.html = 1606835267344
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/member-search-index.js = 1606835267406
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/script.js = 1606835267461
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/stylesheet.css = 1606835267459
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/help-doc.html = 1606835267455
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/element-list = 1606835267243
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/allclasses-index.html = 1606835267429
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/type-search-index.js = 1606835267406
+/Users/Luca/Desktop/Studium/7 Semester/Software-Qualität/my-app/target/apidocs/search.js = 1606835267462
